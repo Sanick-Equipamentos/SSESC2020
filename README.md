@@ -10,10 +10,12 @@ realizadas pelo Contador Eletrônico ESC2020.
   - A exportação dos arquivos é em CSV ou PDF;
   
 ### Instalador
-    - Para Windows
+
+* [Instaladorw] - Windows
 
 ### Informações adicionais
 
 * [Site Sanick] - Sanick Equipamentos de Precisão
 
    [Site Sanick]: <https://www.sanick.com.br/>
+   [Instaladorw]: <https://github.com/Sanick-Equipamentos/SSESC2019/blob/master/Instalador_Windows/ssesc2020.exe>
