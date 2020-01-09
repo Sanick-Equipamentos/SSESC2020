@@ -18,4 +18,4 @@ realizadas pelo Contador Eletrônico ESC2020.
 * [Site Sanick] - Sanick Equipamentos de Precisão
 
    [Site Sanick]: <https://www.sanick.com.br/>
-   [Instalador]: <https://github.com/Sanick-Equipamentos/SSESC2019/blob/master/Instalador_Windows/ssesc2020.exe>
+   [Instalador]: <https://github.com/Sanick-Equipamentos/SSESC2020/blob/master/Instalador_Windows/ssesc2020.exe>
