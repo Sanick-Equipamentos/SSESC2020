@@ -1,0 +1,19 @@
+# SSESC2020
+
+Software Standard ESC2020 - (SSESC2020)
+
+O SSESC2020 é um programa desktop para consulta e geração de relatório das contagens 
+realizadas pelo Contador Eletrônico ESC2020. 
+
+  - As consultas podem ser filtradas por datas;
+  - Os relatórios são personalizavéis;
+  - A exportação dos arquivos é em CSV ou PDF;
+  
+### Instalador
+    - Para Windows
+
+### Informações adicionais
+
+* [Site Sanick] - Sanick Equipamentos de Precisão
+
+   [Site Sanick]: <https://www.sanick.com.br/>
